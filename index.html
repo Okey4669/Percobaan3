@@ -1,4 +1,4 @@
-<!DOCTYPE >
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -14,6 +14,18 @@
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+
+        <!-- Tailwind CSS CDN (Added for Awards UI) -->
+        <script src="https://cdn.tailwindcss.com"></script>
+        <!-- Inter Font (Added for Awards UI) -->
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <style>
+            /* Custom styles for the Awards section to ensure Inter font and background consistency */
+            #awards {
+                font-family: 'Inter', sans-serif;
+                background-color: #f8f8f8; /* Latar belakang lebih terang sesuai Awards UI */
+            }
+        </style>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -146,7 +158,7 @@
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Cloud Computing Installation using AWS and WordPress 
+                            Cloud Computing Installation using AWS and WordPress
                         </li>
                     </ul>
                 </div>
@@ -155,47 +167,51 @@
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Certifications</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Google Analytics Certified Developer
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Mobile Web Specialist - Google Certification
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2009
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            2
-                            <sup>nd</sup>
-                            Place - University of Colorado Boulder - Emerging Tech Competition 2008
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            1
-                            <sup>st</sup>
-                            Place - James Buchanan High School - Hackathon 2006
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            3
-                            <sup>rd</sup>
-                            Place - James Buchanan High School - Hackathon 2005
-                        </li>
-                    </ul>
+                    <h1 class="text-3xl font-bold text-center text-gray-900 mb-10">Sertifikat & Penghargaan</h1>
+
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+                        <!-- Contoh Sertifikat 1: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/3182CE/FFFFFF?text=Sertifikat+Pengembangan+Web+Lanjut" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/3182CE/FFFFFF?text=Sertifikat+Web" alt="Sertifikat Pengembangan Web Lanjut" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+
+                        <!-- Contoh Sertifikat 2: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/D53F8C/FFFFFF?text=Sertifikat+Analisis+Data+Python" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/D53F8C/FFFFFF?text=Sertifikat+Data" alt="Sertifikat Analisis Data dengan Python" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+
+                        <!-- Contoh Sertifikat 3: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/38A169/FFFFFF?text=Sertifikat+Komputasi+Awan" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/38A169/FFFFFF?text=Sertifikat+Cloud" alt="Sertifikat Dasar Komputasi Awan" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+
+                        <!-- Contoh Sertifikat 4: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/805AD5/FFFFFF?text=Sertifikat+Desain+UI/UX" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/805AD5/FFFFFF?text=Sertifikat+UI/UX" alt="Sertifikat Desain UI/UX Fundamental" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+
+                        <!-- Contoh Sertifikat 5: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/DD6B20/FFFFFF?text=Sertifikat+Pemasaran+Digital" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/DD6B20/FFFFFF?text=Sertifikat+Digital+Mkt" alt="Sertifikat Pemasaran Digital Profesional" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+
+                        <!-- Contoh Sertifikat 6: Hanya Foto -->
+                        <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden">
+                            <a href="https://placehold.co/800x600/6B46C1/FFFFFF?text=Sertifikat+Keamanan+Siber" target="_blank" class="block w-full h-full">
+                                <img src="https://placehold.co/600x400/6B46C1/FFFFFF?text=Sertifikat+CyberSec" alt="Sertifikat Dasar Keamanan Siber" class="w-full h-64 object-cover hover:scale-105 transition-transform duration-300">
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </section>
         </div>
