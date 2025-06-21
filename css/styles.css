@@ -11082,3 +11082,6 @@ section.resume-section .resume-section-content {
   display: block;
   margin: 0 auto;
 }
+.container-fluid {
+    background-color: #FFC470; /* Ganti dengan warna yang kamu suka */
+}
