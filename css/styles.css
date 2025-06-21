@@ -11049,3 +11049,24 @@ section.resume-section .resume-section-content {
   transform: translateX(-50%) translateY(0);
   opacity: 1;
 }
+.glow-button {
+  display: inline-block;
+  padding: 12px 28px;
+  background-color: #111827; /* dark background */
+  color: white;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0); /* no shadow by default */
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
+}
+
+.glow-button:hover {
+  transform: translateY(-4px) scale(1.03); /* pop up effect */
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.6), 0 0 40px rgba(0, 255, 255, 0.3);
+  border-color: rgba(0, 255, 255, 0.5);
+  background-color: #1f2937; /* slightly lighter background */
+}
