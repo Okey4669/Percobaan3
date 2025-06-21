@@ -11095,3 +11095,25 @@ section.resume-section .resume-section-content {
 .view-all-btn {
   color: #F7F7F7; /* Ganti dengan warna yang kamu inginkan */
 }
+/* Gaya dasar untuk menu link */
+nav a {
+  color: #D3B8B8; /* warna teks default */
+  text-decoration: none;
+  display: block;
+  padding: 10px 0;
+  text-align: center;
+  font-weight: bold;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+/* Efek hover */
+nav a:hover {
+  color: #FFFFFF; /* warna menyala saat hover */
+  background-color: #8B3A3A; /* opsional: latar belakang berbeda */
+}
+
+/* Efek active atau menu yang sedang dipilih */
+nav a.active {
+  color: #FFFFFF; /* warna menyala */
+  background-color: #8B3A3A; /* opsional: latar belakang berbeda */
+}
