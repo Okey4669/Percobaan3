@@ -11074,8 +11074,8 @@ section.resume-section .resume-section-content {
     background: linear-gradient(180deg, #4793AF, #1b4251); /* biru ke biru muda */
 }
 .profile-pic {
-  width: 150px;           /* Atur sesuai ukuran yang kamu inginkan */
-  height: 150px;
+  width: 180px;           /* Atur sesuai ukuran yang kamu inginkan */
+  height: 180px;
   object-fit: cover;      /* Supaya bagian tengah tetap fokus */
   border-radius: 50%;     /* Ini yang bikin bulat sempurna */
   border: 5px solid #4a90a4; /* Opsional: warna border biru seperti contoh */
