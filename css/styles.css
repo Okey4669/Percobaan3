@@ -11071,7 +11071,7 @@ section.resume-section .resume-section-content {
   background-color: #000000; /* slightly lighter background */
 }
 .custom-navbar {
-    background: linear-gradient(180deg, #4793AF, #1b4251); /* biru ke biru muda */
+    background: linear-gradient(180deg, #8B322C, #8B322C); /* biru ke biru muda */
 }
 .profile-pic {
   width: 180px;           /* Atur sesuai ukuran yang kamu inginkan */
@@ -11083,5 +11083,5 @@ section.resume-section .resume-section-content {
   margin: 0 auto;
 }
 .container-fluid {
-    background-color: #8B322C; /* Ganti dengan warna yang kamu suka */
+    background-color: #FFC470; /* Ganti dengan warna yang kamu suka */
 }
