@@ -11078,7 +11078,7 @@ section.resume-section .resume-section-content {
   height: 180px;
   object-fit: cover;      /* Supaya bagian tengah tetap fokus */
   border-radius: 50%;     /* Ini yang bikin bulat sempurna */
-  border: 5px solid #4a90a4; /* Opsional: warna border biru seperti contoh */
+  border: 5px; /* Opsional: warna border biru seperti contoh */
   display: block;
   margin: 0 auto;
 }
