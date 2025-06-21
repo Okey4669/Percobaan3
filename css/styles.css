@@ -11065,6 +11065,7 @@ section.resume-section .resume-section-content {
 }
 
 .glow-button:hover {
+  color: #f7f7f7; /* tetap warna ini saat hover */
   transform: translateY(-4px) scale(1.03); /* pop up effect */
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.6), 0 0 15px rgba(0, 0, 0, 0.3);
   border-color: rgba(0, 0, 0, 0.5);
