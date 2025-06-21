@@ -11111,9 +11111,3 @@ nav a:hover {
   color: #FFFFFF; /* warna menyala saat hover */
   background-color: #8B3A3A; /* opsional: latar belakang berbeda */
 }
-
-/* Efek active atau menu yang sedang dipilih */
-nav a.active {
-  color: #FFFFFF; /* warna menyala */
-  background-color: #8B3A3A; /* opsional: latar belakang berbeda */
-}
