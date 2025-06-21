@@ -11085,3 +11085,6 @@ section.resume-section .resume-section-content {
 .container-fluid {
     background-color: #FFC470; /* Ganti dengan warna yang kamu suka */
 }
+.lead mb-5 {
+  color: #333333; /* Ubah ke warna yang kamu inginkan */
+}
