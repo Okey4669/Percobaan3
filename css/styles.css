@@ -11073,3 +11073,12 @@ section.resume-section .resume-section-content {
 .custom-navbar {
     background: linear-gradient(180deg, #4793AF, #1b4251); /* biru ke biru muda */
 }
+.profile-pic {
+  width: 200px;           /* Atur sesuai ukuran yang kamu inginkan */
+  height: 200px;
+  object-fit: cover;      /* Supaya bagian tengah tetap fokus */
+  border-radius: 50%;     /* Ini yang bikin bulat sempurna */
+  border: 5px solid #4a90a4; /* Opsional: warna border biru seperti contoh */
+  display: block;
+  margin: 0 auto;
+}
