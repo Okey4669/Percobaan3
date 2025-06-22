@@ -36,4 +36,4 @@ languageSelector.addEventListener("change", (e) => {
 });
 
 // Atur default ke bahasa Indonesia
-setLanguage("id");
+setLanguage("en");
