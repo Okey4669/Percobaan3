@@ -14,6 +14,17 @@
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <meta charset="UTF-8">
+        <title>Multi Language Web</title>
+        <style>
+          body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+          }
+          .lang-selector {
+             margin-bottom: 20px;
+          }
+        </style
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -33,6 +44,19 @@
                 </ul>
             </div>
         </nav>
+            <div class="lang-selector">
+                <label for="language">Pilih Bahasa: </label>
+                <select id="language">
+                  <option value="id">Indonesia</option>
+                  <option value="en">English</option>
+               </select>
+            </div>
+
+            <h1 data-lang="title">Selamat Datang</h1>
+            <p data-lang="desc">Ini adalah contoh website multibahasa.</p>
+            <button data-lang="button">Klik Saya</button>
+
+            <script src="lang.js"></script>
         <!-- Page Content-->
         <div class="container-fluid p-0">
             <!-- About-->
