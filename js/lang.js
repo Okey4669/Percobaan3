@@ -11,6 +11,9 @@ const translations = {
     FTTH: "FTTH (Fiber To The Home) (Serat Ke Rumah)",
     FTTH2: "Magang Teknisi",
     FTTH3: "Menginstal dan memelihara jaringan Fiber to the Home (FTTH), mengkonfigurasi perangkat ONU, menyambungkan kabel serat, dan menangani pemecahan masalah dasar, Memberikan dukungan teknis selama operasi lapangan.",
+    Cloud: "Instalasi Komputasi Awan",
+    Cloud2: "Menggunakan AWS dan WordPress",
+    Cloud3: "Menerapkan layanan berbasis cloud menggunakan Amazon Web Services (AWS), Menginstal dan mengonfigurasi WordPress di infrastruktur cloud, Pengaturan hosting terkelola, penautan domain, dan manajemen sumber daya cloud dasar.",
   },
   en: {
     about: "About",
@@ -24,6 +27,9 @@ const translations = {
     FTTH: "FTTH (Fiber To The Home)",
     FTTH2: "Technician Internship",
     FTTH3: "Installed and maintained Fiber to the Home (FTTH) networks, Configured ONU devices, spliced fiber cables, and handled basic troubleshooting, Provided technical support during field operations.",
+    Cloud: "Cloud Computing Installation",
+    Cloud2: "Using AWS and WordPress",
+    Cloud3: "Deployed cloud-based services using Amazon Web Services (AWS), Installed and configured WordPress on cloud infrastructure, Managed hosting setup, domain linking, and basic cloud resource management.",
   }
 };
 
