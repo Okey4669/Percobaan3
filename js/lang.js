@@ -16,6 +16,7 @@ const translations = {
     Cloud3: "Menerapkan layanan berbasis cloud menggunakan Amazon Web Services (AWS), Menginstal dan mengonfigurasi WordPress di infrastruktur cloud, Pengaturan hosting terkelola, penautan domain, dan manajemen sumber daya cloud dasar.",
     Attack: "Menyerang dan Mempertahankan Server Linux",
     Attack2: "Menyerang Linux Ubuntu Server, Mengkonfigurasi untuk melindungi server, Mengkonfigurasi Jaringan.",
+    TKJ: "TKJ (Teknik Komputer dan Jaringan)",
   },
   en: {
     about: "About",
@@ -34,6 +35,7 @@ const translations = {
     Cloud3: "Deployed cloud-based services using Amazon Web Services (AWS), Installed and configured WordPress on cloud infrastructure, Managed hosting setup, domain linking, and basic cloud resource management.",
     Attack: "Attack and Defend Linux Server",
     Attack2: "Attacking Linux Ubuntu Server, Configuring to protect the server, Configuring the Network.",
+    TKJ: "Network Engineering and Computing",
   }
 };
 
