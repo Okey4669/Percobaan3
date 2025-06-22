@@ -33,9 +33,7 @@ const translations = {
     Cloud2: "Using AWS and WordPress",
     Cloud3: "Deployed cloud-based services using Amazon Web Services (AWS), Installed and configured WordPress on cloud infrastructure, Managed hosting setup, domain linking, and basic cloud resource management.",
     Attack: "Attack and Defend Linux Server",
-    Attack2: "Attacking Linux Ubuntu Server, Configuring to protect the server, Configuring the Network.
-
-",
+    Attack2: "Attacking Linux Ubuntu Server, Configuring to protect the server, Configuring the Network.",
   }
 };
 
