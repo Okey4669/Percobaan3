@@ -6,6 +6,7 @@ const translations = {
     skills: "Keahlian",
     awards: "Penghargaan",
     chooseLang: "Pilih Bahasa",
+    info: "Perumahan Candirenggo Asri Blok H-1 · Kabupaten Singosari · (62) 81330960798 · ",
   },
   en: {
     about: "About",
@@ -14,6 +15,7 @@ const translations = {
     skills: "Skills",
     awards: "Awards",
     chooseLang: "Choose Language",
+    info: "Candirenggo Asri Housing Block H-1 · Singosari Regency · (62) 81330960798 · ",
   }
 };
 
