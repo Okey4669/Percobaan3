@@ -7,6 +7,7 @@ const translations = {
     awards: "Penghargaan",
     chooseLang: "Pilih Bahasa",
     rumah: "Perumahan Candirenggo Asri Blok H-1 · Kabupaten Singosari · (62) 81330960798 ·",
+    iam: " Saya adalah seorang semi-profesional jurusan Teknik Komputer dan Jaringan dengan keahlian di bidang keamanan Cyber dan juga berprestasi di bidang Teknik Jaringan, Administrasi Sistem, dan Manajemen Infrastruktur TI dengan Tingkat Komitmen Tinggi.",
   },
   en: {
     about: "About",
@@ -16,6 +17,7 @@ const translations = {
     awards: "Awards",
     chooseLang: "Choose Language",
     rumah: "Candirenggo Asri Housing Block H-1 · Singosari Regency · (62) 81330960798 ·",
+    iam: "I am a semi-professional majoring in Computer and Network Engineering with expertise in Cyber ​​security and also accomplished in Network Engineering, System Administration, and IT Infrastructure Management with High Commitment Level.",
   }
 };
 
