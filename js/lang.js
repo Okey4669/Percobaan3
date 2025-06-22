@@ -1,13 +1,19 @@
 const translations = {
   id: {
-    title: "Selamat Datang",
-    desc: "Ini adalah contoh website multibahasa.",
-    button: "Klik Saya"
+    about: "Tentang",
+    experience: "Pengalaman",
+    education: "Pendidikan",
+    skills: "Keahlian",
+    awards: "Penghargaan",
+    chooseLang: "Pilih Bahasa",
   },
   en: {
-    title: "Welcome",
-    desc: "This is a multi-language website example.",
-    button: "Click Me"
+    about: "About",
+    experience: "Experience",
+    education: "Education",
+    skills: "Skills",
+    awards: "Awards",
+    chooseLang: "Choose Language",
   }
 };
 
