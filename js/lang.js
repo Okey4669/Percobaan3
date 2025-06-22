@@ -17,6 +17,11 @@ const translations = {
     Attack: "Menyerang dan Mempertahankan Server Linux",
     Attack2: "Menyerang Linux Ubuntu Server, Mengkonfigurasi untuk melindungi server, Mengkonfigurasi Jaringan.",
     TKJ: "TKJ (Teknik Komputer dan Jaringan)",
+    HardSkill: "Ketrampilan Teknis",
+    Mikrotik: "Konfogurasi Mikrotik",
+    Cyber: "Keamanan Siber",
+    Fiber: "Pemasangan Serat Optik",
+    Word: "Instalasi Komputasi Awan menggunakan AWS dan WordPress",
   },
   en: {
     about: "About",
@@ -36,6 +41,11 @@ const translations = {
     Attack: "Attack and Defend Linux Server",
     Attack2: "Attacking Linux Ubuntu Server, Configuring to protect the server, Configuring the Network.",
     TKJ: "Network Engineering and Computing",
+    HardSkill: "HardSkill",
+    Miktrotik: "Configuration Mikrotik",
+    Cyber: "Cyber Security",
+    Fiber: "Installation Fiber Optic",
+    Word: "Cloud Computing Installation using AWS and WordPress",
   }
 };
 
