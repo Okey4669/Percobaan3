@@ -1,4 +1,4 @@
-<!DOCTYPE >
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -24,7 +24,7 @@
           .lang-selector {
              margin-bottom: 20px;
           }
-        </style
+        </style>
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -43,23 +43,32 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards" class="active">Awards</a></li>
                 </ul>
             </div>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    ...
+                </ul>
+                <div class="lang-selector mt-3 px-3">
+                    <select id="language" class="form-select form-select-sm">
+                        <option value="id">🇮🇩 Indonesia</option>
+                        <option value="en">🇬🇧 English</option>
+                    </select>
+                </div>
+            </div>
         </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
             <div class="lang-selector">
-                <label for="language">Pilih Bahasa: </label>
-                <select id="language">
-                  <option value="id">Indonesia</option>
-                  <option value="en">English</option>
-               </select>
+              <label for="language">Pilih Bahasa: </label>
+              <select id="language">
+                <option value="id">Indonesia</option>
+                <option value="en">English</option>
+              </select>
             </div>
 
             <h1 data-lang="title">Selamat Datang</h1>
             <p data-lang="desc">Ini adalah contoh website multibahasa.</p>
             <button data-lang="button">Klik Saya</button>
-
-            <script src="lang.js"></script>
-        <!-- Page Content-->
-        <div class="container-fluid p-0">
-            <!-- About-->
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">
