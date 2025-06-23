@@ -7,7 +7,7 @@ const translations = {
     awards: "Penghargaan",
     chooseLang: "Pilih Bahasa",
     rumah: "Perumahan Candirenggo Asri Blok H-1 · Kabupaten Singosari · (62) 81330960798 ·",
-    iam: " Saya adalah seorang semi-profesional jurusan Teknik Komputer dan Jaringan dengan keahlian di bidang keamanan Cyber dan juga berprestasi di bidang Teknik Jaringan, Administrasi Sistem, dan Manajemen Infrastruktur TI dengan Tingkat Komitmen Tinggi.",
+    iam: "Saya merupakan seorang semi-profesional dengan latar belakang pendidikan di bidang Teknik Komputer dan Jaringan, serta memiliki keahlian khusus dalam Keamanan Siber. Selain itu, saya memiliki rekam jejak yang baik dalam bidang Teknik Jaringan, Administrasi Sistem, dan Manajemen Infrastruktur Teknologi Informasi. Saya dikenal sebagai individu yang memiliki tingkat komitmen tinggi, mampu bekerja secara mandiri maupun dalam tim, serta berorientasi pada hasil. Di samping itu, saya memiliki kemampuan pemrograman tingkat semi-profesional dalam beberapa bahasa, termasuk HTML, Python, dan PHP. Saya juga berpengalaman dalam pengelolaan dan pengembangan situs web berbasis WordPress, baik untuk keperluan profesional maupun pribadi.",
     FTTH: "FTTH (Fiber To The Home) (Serat Ke Rumah)",
     FTTH2: "Magang Teknisi",
     FTTH3: "Menginstal dan memelihara jaringan Fiber to the Home (FTTH), mengkonfigurasi perangkat ONU, menyambungkan kabel serat, dan menangani pemecahan masalah dasar, Memberikan dukungan teknis selama operasi lapangan.",
