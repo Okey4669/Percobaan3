@@ -22,6 +22,12 @@ const translations = {
     Cyber: "Keamanan Siber",
     Fiber: "Pemasangan Serat Optik",
     Word: "Instalasi Komputasi Awan menggunakan AWS dan WordPress",
+    Certiport: "Sertifikat Keamanan Siber Certiport",
+    Standesk: "Sertifikat Standesk",
+    Ansible: "Sertifikat Mengotomatiskan penerapan aplikasi menggunakan Ansible",
+    Toiec: "Sertifikat Toeic",
+    Awarness: "Sertifikat Kesadaran Keamanan Siber",
+    Tahfidzul: "Sertifikat Tahfidzul",
   },
   en: {
     about: "About",
@@ -46,6 +52,12 @@ const translations = {
     Cyber: "Cyber Security",
     Fiber: "Installation Fiber Optic",
     Word: "Cloud Computing Installation using AWS and WordPress",
+    Certiport: "Certificate CyberSecurity Certiport",
+    Standesk: "Cetificate Standesk",
+    Ansible: "Certificate Automating the deployment of applications using Ansible",
+    Toiec: "Certificate Toeic",
+    Awarness: "Certificate Cyber Security Awareness",
+    Tahfidzul: "Certificate Tahfidzul",
   }
 };
 
