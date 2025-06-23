@@ -37,7 +37,7 @@ const translations = {
     awards: "Awards",
     chooseLang: "Choose Language",
     rumah: "Candirenggo Asri Housing Block H-1 · Singosari Regency · (62) 81330960798 ·",
-    iam: "I am a semi-professional majoring in Computer and Network Engineering with expertise in Cyber ​​security and also accomplished in Network Engineering, System Administration, and IT Infrastructure Management with High Commitment Level.",
+    iam: "Saya merupakan seorang semi-profesional dengan latar belakang pendidikan di bidang Teknik Komputer dan Jaringan, serta memiliki keahlian khusus dalam Keamanan Siber. Selain itu, saya memiliki rekam jejak yang baik dalam bidang Teknik Jaringan, Administrasi Sistem, dan Manajemen Infrastruktur Teknologi Informasi. Saya dikenal sebagai individu yang memiliki tingkat komitmen tinggi, mampu bekerja secara mandiri maupun dalam tim, serta berorientasi pada hasil. Di samping itu, saya memiliki kemampuan pemrograman tingkat semi-profesional dalam beberapa bahasa, termasuk HTML, Python, dan PHP. Saya juga berpengalaman dalam pengelolaan dan pengembangan situs web berbasis WordPress, baik untuk keperluan profesional maupun pribadi.",
     FTTH: "FTTH (Fiber To The Home)",
     FTTH2: "Technician Internship",
     FTTH3: "Installed and maintained Fiber to the Home (FTTH) networks, Configured ONU devices, spliced fiber cables, and handled basic troubleshooting, Provided technical support during field operations.",
