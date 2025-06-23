@@ -28,6 +28,8 @@ const translations = {
     Toiec: "Sertifikat Toeic",
     Awareness: "Sertifikat Kesadaran Keamanan Siber",
     Tahfidzul: "Sertifikat Tahfidzul",
+    SD: "SD Islam Bani Hasyim",
+    SMP: "SMP Islam Terpadu Insan Permata Malang",
   },
   en: {
     about: "About",
@@ -58,6 +60,8 @@ const translations = {
     Toiec: "Certificate Toeic",
     Awareness: "Certificate Cyber Security Awareness",
     Tahfidzul: "Certificate Tahfidzul",
+    SD: "Bani Hasyim Islamic Elementary School",
+    SMP: "Integrated Islamic Junior High School INSAN PERMATA MALANG",
   }
 };
 
