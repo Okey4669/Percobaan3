@@ -33,7 +33,7 @@ const translations = {
     Website: "Proyek pribadi Situs web html dan css",
     Website2: "Saya telah mengembangkan sebuah proyek pribadi berupa website portofolio yang sepenuhnya dibangun menggunakan HTML dan CSS, sebagai media untuk menampilkan keahlian, pengalaman, dan karya-karya saya di bidang teknologi dan pengembangan web.",
     klik: "Klik untuk detail",
-    klik: "Daftar Riwayat Hidup",
+    CV: "Daftar Riwayat Hidup",
   },
   en: {
     about: "About",
