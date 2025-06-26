@@ -30,6 +30,8 @@ const translations = {
     Tahfidzul: "Sertifikat Tahfidzul",
     SD: "SD Islam Bani Hasyim",
     SMP: "SMP Islam Terpadu Insan Permata Malang",
+    Website: "Proyek pribadi Situs web html dan css",
+    Website2: "Saya telah mengembangkan sebuah proyek pribadi berupa website portofolio yang sepenuhnya dibangun menggunakan HTML dan CSS, sebagai media untuk menampilkan keahlian, pengalaman, dan karya-karya saya di bidang teknologi dan pengembangan web.",
   },
   en: {
     about: "About",
@@ -62,6 +64,8 @@ const translations = {
     Tahfidzul: "Certificate Tahfidzul",
     SD: "Bani Hasyim Islamic Elementary School",
     SMP: "Integrated Islamic Junior High School INSAN PERMATA MALANG",
+    Website: "Personal project Website html and css",
+    Website2: "I have developed a personal project of a portfolio website built entirely using HTML and CSS, as a medium to showcase my expertise, experience, and works in the field of web technology and development.",
   }
 };
 
